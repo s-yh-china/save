@@ -2,7 +2,7 @@
 #include <tchar.h>
 using namespace std;
 
-
+//by Prasyb
 void s(const char *string, int *pInt);
 
 int content(int i, int n)
